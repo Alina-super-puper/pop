@@ -6,6 +6,7 @@ const iform = reactive({
   gen: "",
   age: ""
 })
+
 // Записываем сюда ошибки
 const error = reactive({
   ername: "",
